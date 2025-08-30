@@ -1,4 +1,6 @@
-AGP_PIPELINE — Interpretable ML Case Study on American Gut
+AGP_PIPELINE
+
+Interpretable ML Case Study on American Gut Project data
 
 Data DOI: https://doi.org/10.5281/zenodo.16989509
 
