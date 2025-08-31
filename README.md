@@ -25,14 +25,13 @@ otu_processed.csv
 
 y_labels.csv
 
-Quick start on Google Colab
-
-Mount Drive:
+Sign in to Google Colab and open new file.
+Run this to mount google drive:
 
 from google.colab import drive
 drive.mount('/content/drive')
 
-In Google Drive, use: MyDrive/Colab Notebooks/
+In Google Drive, find: MyDrive/Colab Notebooks/ - this will be automatically added after drive is mounted.
 
 Upload all Zenodo files into that folder.
 
